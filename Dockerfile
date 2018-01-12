@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:alpine
 
 RUN npm install -g yaml-cli
 
