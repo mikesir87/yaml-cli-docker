@@ -1,5 +1,9 @@
 # YAML Updater
 
+![Docker Stars](https://img.shields.io/docker/stars/mikesir87/yaml-cli.svg)
+![Docker Pulls](https://img.shields.io/docker/pulls/mikesir87/yaml-cli.svg)
+![Docker Automated Builds](http://img.shields.io/docker/automated/mikesir87/yaml-cli.svg)
+
 This Docker image provides the following tools that can be used to update YAML files:
   - [yaml-cli](https://github.com/pandastrike/yaml-cli) - a Node-based tool to get, set, and work with YAML
 
